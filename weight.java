@@ -5,7 +5,7 @@ public class weight {
 
         Scanner scanner = new Scanner(System.in);
 
-        // weight conversyion program
+        // weight conversion program
 
         // declare variables
 
